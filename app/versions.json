@@ -1,0 +1,22 @@
+{
+ "sharecrypto": {
+  "name": "Share/Crypto Trades",
+  "versionCode": 18,
+  "versionName": "1.9.5",
+  "url": "https://zeus4127.github.io/share-crypto-trades/app/ShareCryptoTrades.apk",
+  "file": "ShareCryptoTrades.apk",
+  "size": 8810025,
+  "sha256": "c02e7099432274212cf509a928a7e0e92ced5293487885383b0ccc6ef8fbf213",
+  "built": "2026-11-20 17:35"
+ },
+ "svl": {
+  "name": "SVL ASX",
+  "versionCode": 17,
+  "versionName": "3.2",
+  "url": "https://zeus4127.github.io/share-crypto-trades/app/SVL_ASX.apk",
+  "file": "SVL_ASX.apk",
+  "size": 718509,
+  "sha256": "c5150da11c175a07bdccff21163236488e28213f2691fde99bf8092f97e0063a",
+  "built": "2026-11-18 16:18"
+ }
+}
